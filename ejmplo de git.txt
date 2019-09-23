@@ -1,3 +1,5 @@
 ejemplo txt
 
-se hicieron mas cambios 2 op
+se hicieron mas cambios
+nuevo cambio al archivo se ostrara como agregar los
+cambios hechos al archivo o a la carpeta 
